@@ -54,8 +54,8 @@ plt.title("Autocorrelation plot")
 plt.xlabel("Lags")
 plt.show()
 ```
-## OUTPUT:
+## OUTPUT :
 ![image](https://github.com/gpavithra673/Exp-4-Compute-the-AutoCorrelation-Function-ACF-/assets/93427264/0f66c181-7c72-4140-acd7-a8cbc95109d8)
 
-## RESULT: 
+## RESULT : 
 Thus, we have successfully implemented the auto correlation function using above mentioned program.
